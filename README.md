@@ -1,1 +1,1 @@
-# mobile-computing-exp1
+aim:android application for hello world
